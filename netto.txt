@@ -1,0 +1,22 @@
+w=600,h=840,sc=40
+xxxxxxx  xxxxxxx| 1
+x              x| 2
+x  xx  xx  xx  x| 3 
+x  xx  xx  xx  x| 4
+x  xx  xx  xx  x| 5
+x  xx  xx  xx  x| 6
+x  xx  xx  xx  x| 7
+x  xx  xx  xx  x| 8
+x  xx  xx  xx  x| 9
+x               | 10
+x               | 11
+x  xx  xx  xx  x| 12
+x  xx  xx  xx  x| 13
+x  xx  xx  xx  x| 14
+x  xx  xx  xx  x| 15
+x  xx  xx  xx  x| 16
+x               | 17
+x               | 18
+x  xxxx         | 19
+   x            | 20
+   x            | 21
